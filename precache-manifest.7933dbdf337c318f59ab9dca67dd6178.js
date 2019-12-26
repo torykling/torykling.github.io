@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a8577e184f7d7d1b7e65e66b02d4911",
+    "revision": "24114badd2475bf8c69a325136f30b0d",
     "url": "/index.html"
   },
   {
-    "revision": "e4b2da80afef29d7b76f",
-    "url": "/static/css/main.7aeb5c48.chunk.css"
+    "revision": "c48562681dd9d0df1db8",
+    "url": "/static/css/main.a1f2c429.chunk.css"
   },
   {
-    "revision": "cb9b9c8defbc3de295a9",
-    "url": "/static/js/2.c3626df9.chunk.js"
+    "revision": "b5ad804dabef8df934a2",
+    "url": "/static/js/2.1f50bca6.chunk.js"
   },
   {
-    "revision": "e4b2da80afef29d7b76f",
-    "url": "/static/js/main.d97f278d.chunk.js"
+    "revision": "c48562681dd9d0df1db8",
+    "url": "/static/js/main.849391f1.chunk.js"
   },
   {
     "revision": "2cf28e6d056999b0107d",
@@ -24,6 +24,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bestBooks.ad6970cd.png"
   },
   {
+    "revision": "c960a3a93bf2b40b6d23e5283778ae0a",
+    "url": "/static/media/cotrip.c960a3a9.png"
+  },
+  {
     "revision": "fed03568fe7755cde6e734c10aaf514c",
     "url": "/static/media/hangman.fed03568.png"
   },
@@ -32,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/profile.2a80f741.jpg"
   },
   {
-    "revision": "e0a64201106a43cfe7ce278abae3cbef",
-    "url": "/static/media/resume.e0a64201.pdf"
+    "revision": "942842a4655462d310a9e9c75abeedc8",
+    "url": "/static/media/resume.942842a4.pdf"
   },
   {
     "revision": "739b8ef7234e0bc5de608599fab0989f",
