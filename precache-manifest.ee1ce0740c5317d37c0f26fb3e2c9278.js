@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f34468954afb50eca8d00046b50370f8",
+    "revision": "ddc5e39d4b315d7ba31e263266a22f66",
     "url": "/index.html"
   },
   {
-    "revision": "ca40b71cc6305d5259e7",
+    "revision": "c5ce73f6f879c9a3d6d7",
     "url": "/static/css/main.9f054669.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.1098c401.chunk.js"
   },
   {
-    "revision": "ca40b71cc6305d5259e7",
-    "url": "/static/js/main.4dd0e913.chunk.js"
+    "revision": "c5ce73f6f879c9a3d6d7",
+    "url": "/static/js/main.d1b9f956.chunk.js"
   },
   {
     "revision": "2cf28e6d056999b0107d",
@@ -24,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bestBooks.ad6970cd.png"
   },
   {
-    "revision": "c960a3a93bf2b40b6d23e5283778ae0a",
-    "url": "/static/media/cotrip.c960a3a9.png"
+    "revision": "3d1de2804cbd6dbc7396bb08c277c35a",
+    "url": "/static/media/cotrip.3d1de280.png"
   },
   {
-    "revision": "fed03568fe7755cde6e734c10aaf514c",
-    "url": "/static/media/hangman.fed03568.png"
+    "revision": "52d754b33969f976dcc46490e2eeed91",
+    "url": "/static/media/hangman.52d754b3.png"
   },
   {
     "revision": "2a80f7414cd679a47f437c667d8a647b",
