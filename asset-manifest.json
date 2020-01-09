@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9f054669.chunk.css",
-    "main.js": "/static/js/main.f9e0d635.chunk.js",
-    "main.js.map": "/static/js/main.f9e0d635.chunk.js.map",
+    "main.js": "/static/js/main.64604873.chunk.js",
+    "main.js.map": "/static/js/main.64604873.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.017fa1fb.js",
     "runtime-main.js.map": "/static/js/runtime-main.017fa1fb.js.map",
     "static/js/2.1098c401.chunk.js": "/static/js/2.1098c401.chunk.js",
     "static/js/2.1098c401.chunk.js.map": "/static/js/2.1098c401.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.efc2351e3472f7c36bab4d3eaedf8515.js": "/precache-manifest.efc2351e3472f7c36bab4d3eaedf8515.js",
+    "precache-manifest.33e78e14d832b22d2addb298b41cd649.js": "/precache-manifest.33e78e14d832b22d2addb298b41cd649.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9f054669.chunk.css.map": "/static/css/main.9f054669.chunk.css.map",
     "static/media/bestBooks.png": "/static/media/bestBooks.ad6970cd.png",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.017fa1fb.js",
     "static/js/2.1098c401.chunk.js",
     "static/css/main.9f054669.chunk.css",
-    "static/js/main.f9e0d635.chunk.js"
+    "static/js/main.64604873.chunk.js"
   ]
 }
